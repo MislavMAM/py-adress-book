@@ -28,3 +28,4 @@ except Exception as ex:
 
 for key, value in text_dict.items():
     print(f'{key}\t{value}')
+
